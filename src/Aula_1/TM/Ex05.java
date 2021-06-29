@@ -1,4 +1,4 @@
-package parte1;
+package Aula_1.TM;
 
 import java.util.Scanner;
 
